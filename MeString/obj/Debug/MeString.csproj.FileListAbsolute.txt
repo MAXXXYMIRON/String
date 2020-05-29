@@ -1,0 +1,7 @@
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\string\MeString\obj\Debug\MeString.csprojAssemblyReference.cache
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\string\MeString\obj\Debug\MeString.csproj.CoreCompileInputs.cache
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\string\MeString\bin\Debug\MeString.exe.config
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\string\MeString\bin\Debug\MeString.exe
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\string\MeString\bin\Debug\MeString.pdb
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\string\MeString\obj\Debug\MeString.exe
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\string\MeString\obj\Debug\MeString.pdb

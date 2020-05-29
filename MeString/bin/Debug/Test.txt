@@ -1,0 +1,12 @@
+Неудачный поиск в строке "Ниlкитиlн Максиllм Анатlольевlич!gweorilbvwoeibwelolrivbwleoirvbweoirbvlwleorbvwelornvbew",
+подстроки "levj", занял - 17 милли секунд
+И вернул идекс начала подстроки - -1
+
+
+
+Удачный поиск в строке "Никитин Максим Анатольевич!gweoribvwoeibweorivbweoirvbweoirbvweorbvweornvbew",
+подстроки "им Анат", занял - 0 милли секунд
+И вернул идекс начала подстроки - 12
+
+
+
